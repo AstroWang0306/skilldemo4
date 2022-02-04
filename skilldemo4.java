@@ -1,5 +1,5 @@
 public class skilldemo4{
-    public static product(int a, int b){
+    public static int product(int a, int b){
         return a * b;
     }
 }
